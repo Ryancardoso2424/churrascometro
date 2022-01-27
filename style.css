@@ -1,0 +1,68 @@
+body{
+    background-color: #444;
+}
+.container{
+    max-width: 300px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    background-color: turquoise;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 47px rgba(172, 249, 236, 0.73);
+  
+  }
+   
+  .churras{
+  
+    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(0, 100, 84);
+  }
+  
+  #adultos{
+    margin-bottom: 7px;
+    font-size: 19px;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  #criancas{
+    margin-bottom: 7px;
+    font-size: 19px;
+    border: none;
+    border-radius: 3px;
+  }
+
+  #duracao{
+    margin-bottom: 5px;
+    font-size: 19px;
+    border: none;
+    border-radius: 3px;
+  }
+  
+  #botao{
+    margin-top: 10px;
+    font-size: 20px;
+    color:rgb(0, 100, 84);
+    background-color: white;
+    border: none; 
+    border-radius: 1px;
+  }
+  
+  #botao:hover{
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 100, 84);
+    border: none; 
+    border-radius: 1px;
+  }
+  
+  #resultado{
+    margin-left: 64px;
+    text-align: left;
+    font-size: 23px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(0, 100, 84);
+  }
